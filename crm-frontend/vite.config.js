@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "./", // Pour les chemins relatifs sur GitHub Pages
+  base: "/Dilane17/crm/", // Pour les chemins relatifs sur GitHub Pages
 });

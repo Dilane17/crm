@@ -301,7 +301,6 @@ const ClientsView = ({
   searchTerm,
   setSearchTerm,
   filteredClients,
-  formatDate,
   getClientInteractions,
   setSelectedClient,
   setCurrentView,

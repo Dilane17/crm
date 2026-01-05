@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/crm/", // Pour GitHub Pages avec le repo 'crm'
+  base: "/CRM/", // Pour GitHub Pages avec le repo 'crm'
 });
